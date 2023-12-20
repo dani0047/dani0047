@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel+👦🏻)](https://git.io/typing-svg) 
-(https://github.com/dani0047/dani0047/blob/main/coding-freak.gif)
+<img src="https://github.com/dani0047/dani0047/blob/main/coding-freak.gif" width="256">
 ## About me 😎
 * Based in Singapore
 * Final year **Mechanical Engineering** undergraduate at Nanyang Technological University, Singapore 📖
