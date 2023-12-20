@@ -1,4 +1,18 @@
-![Hey there, my name is...]
+<div style="width: 100%; overflow: hidden;">
+    <div style="
+        white-space: nowrap; 
+        animation: slide 5s linear infinite;
+        ">
+        Hey there, my name is ...
+    </div>
+</div>
+
+<style>
+@keyframes slide {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+</style>
 
 
 
