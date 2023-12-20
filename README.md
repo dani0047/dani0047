@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel+👦🏻)](https://git.io/typing-svg) 
-
+# Mechanical Engineering Undergraduate
 
 ## About me 😎
+* Based in Singapore
 * Final year **Mechanical Engineering** undergraduate at Nanyang Technological University, Singapore 📖
 *  specialised in **Robotics and Mechatronics Systems** 🤖
 * self-learning **Data Science & Analytics** 📈
