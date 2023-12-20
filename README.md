@@ -17,7 +17,7 @@
 
 
 ## GitHub Stats 🔥
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dani0047&show_icons=true)![GitHub streak stats](https://streak-stats.demolab.com/?user=dani0047)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dani0047&show_icons=true)![GitHub streak stats](https://streak-stats.demolab.com/?user=dani0047&background=000000)  
 
 ## Connect with me 🧑‍🤝‍🧑
 **Email** ✉️ dlteckfatt@gmail.com
