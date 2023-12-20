@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel+👦🏻)](https://git.io/typing-svg) 
-# Mechanical Engineering Undergraduate
+
 
 ## About me 😎
 * Based in Singapore
