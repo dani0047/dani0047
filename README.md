@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel+👦🏻)](https://git.io/typing-svg) 
 
-<img src="https://github.com/dani0047/dani0047/blob/main/coding-freak.gif" width="512">
+<img src="https://github.com/dani0047/dani0047/blob/main/coding-freak.gif" width="300">
 
 ## About me 😎
 * Based in Singapore
