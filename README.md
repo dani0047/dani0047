@@ -15,7 +15,7 @@
 ## Connect with me 🧑‍🤝‍🧑
 **Email** ✉️ dlteckfatt@gmail.com
 
-**LinkedIn** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' fill="#000000">](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-teck-fatt-low-848b44130//)  
+**LinkedIn** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/daniel-teck-fatt-low-848b44130/)    
 
   
 ## Languages and Tools 🔨
