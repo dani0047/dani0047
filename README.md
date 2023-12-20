@@ -1,5 +1,4 @@
-# Hey there! I'm Daniel 👦🏻
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Daniel+ 👦🏻](https://git.io/typing-svg) 
 
 
 ## About me 😎
