@@ -1,11 +1,4 @@
-<div style="width: 100%; overflow: hidden;">
-    <div style="
-        white-space: nowrap; 
-        animation: slide 5s linear infinite;
-        ">
-        Hey there, my name is ...
-    </div>
-</div>
+# Hey there! I'm Daniel 👦🏻
 
 
 ## About me 😎
@@ -17,7 +10,7 @@
 
 
 ## GitHub Stats 🔥
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dani0047&label=Profile%20views&color=0e75b6&style=flat" alt="dani0047" /> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dani0047&show_icons=true)![GitHub streak stats](https://streak-stats.demolab.com/?user=dani0047)  
 
 ## Connect with me 🧑‍🤝‍🧑
 **Email** ✉️ dlteckfatt@gmail.com
